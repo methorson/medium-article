@@ -1,0 +1,38 @@
+body {
+  background-color: #F3F3F3;
+  font-family: 'Times New Roman', Times, serif;
+  color: #322651;
+  font-size: medium;
+  line-height: 40px;
+  text-align: center;
+}
+
+a {
+text-decoration: none;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+color: #D8513C;
+}
+
+a:hover {
+  font-size: 25px;
+  color: #F8998A;
+}
+
+.container {
+  margin: 50px auto
+  width: 50px
+}
+
+h2 {
+  color: grey ;
+  font-family: 'Belanosima', sans-serif;
+}
+
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1590004987778-bece5c9adab6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80");
+  background-size: cover;
+  color: white;
+  padding: 120px 0;
+  font-family: 'Belanosima', sans-serif;
+}
